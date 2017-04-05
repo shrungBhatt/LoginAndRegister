@@ -6,7 +6,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-
+//This class represents the registration page.
 
 public class RegisterActivity extends AppCompatActivity {
 
